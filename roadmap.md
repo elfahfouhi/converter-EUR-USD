@@ -15,3 +15,5 @@
 -dans le tableau, indiqué le vrai taux utilisé dans l'opération de conversion, peut-être penser à le colorer 
 
 -Sauvegarder toutes les opérations et ajout de la pagination
+
+-ajouter toutes les operations de recherche avancée ( quick search, advanced search avec des champs, tri du tableau,...)
