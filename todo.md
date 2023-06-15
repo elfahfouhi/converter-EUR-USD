@@ -8,6 +8,8 @@
 
 4.ajouter une directive pour gérer l'affichage des currency ( utiliser des symboles au lieu des lettres dans le tableau)
 
+5.enlever les espaces blanc entre les element revoir la partie Grid bootsrap ( row, col,...)
+
 ## Implémentation de solution et performances
 
 1.Actuellement on utlise les deux modules reactiveForms et NgModel pour le binding des données, il vaut mieux utiliser soit l'un soir l'autre seulement
