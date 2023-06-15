@@ -2,7 +2,7 @@
 
 ##
 
-- Si l'application va être explosée à l'international, mettre en place la traduction au moins l'anglais et le français.
+-Si l'application va être explosée à l'international, mettre en place la traduction au moins l'anglais et le français.
 
 -gérer les messages d'erreur et de validation lors de la saisie et du calcul de résultat
 
