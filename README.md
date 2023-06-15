@@ -2,8 +2,11 @@
 
 ## Versions utilisées
  node: v14.20.0
+ 
  angular:11.0.0
+ 
  npm : 6.14.17
+ 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.0.
