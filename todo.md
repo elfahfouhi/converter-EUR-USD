@@ -27,6 +27,7 @@
 ## configuration du projet
 
 -mettre en place des tests unitaires
+
 -configuration de linting ajout de prettier
 
 
